@@ -1,1 +1,1 @@
-# Live Website Demo: pre-workshop.netlify.app
+# Live Website Demo: https://pre-workshop.netlify.app/
